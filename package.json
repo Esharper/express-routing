@@ -1,0 +1,19 @@
+{
+  "name": "my-express-server",
+  "version": "1.0.0",
+  "description": "A simple Express server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "author": "Elgin Sharper",
+  "license": "ISC",
+  "type": "module"
+}
